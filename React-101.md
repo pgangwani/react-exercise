@@ -61,6 +61,4 @@ Here's an outline of one possible approach to the exercise:
 
 Once you have built the app, you can submit your solution as a GitHub repository or a ZIP file. Make sure to include instructions on how to run your app and your tests.
 
-
-
-Credits goes to [ChatGPT](https://chat.openai.com/) :heart_eyes: for helping me write this excercise for you. Please dont ask it the answer :wink:
+> *Credits goes to [ChatGPT](https://chat.openai.com/) :heart_eyes: for helping me write this excercise for you. Please dont ask it the answer :wink:* 
